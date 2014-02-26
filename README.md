@@ -1,2 +1,3 @@
 myproject
 =========
+echo "Hello World";
